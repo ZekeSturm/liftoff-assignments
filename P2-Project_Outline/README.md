@@ -22,7 +22,7 @@ Spring Boot/Thymeleaf templatees
 MySQL
 
 ### What I'll Have to Learn
-I will need to learn how to use an SMS proxy API, as well as an email API, if I want this to work as intended, on top of the Google Maps API as a sort of bonus feature (or a similar such location service). On top of that, I'm going to need to either find some stylesheet things to use along the lines of twitter's bootstrap or build my own, and while in theory that's nothing new it's going to require some rather notable exploration outside my comfort zone I feel.
+I will need to learn how to use an SMS proxy API, as well as an email API, if I want this to work as intended, on top of the Google Maps API as a sort of bonus feature (or a similar such location service). On top of that, I'm going to need to either find some stylesheet things to use along the lines of twitter's bootstrap or build my own, and while in theory that's nothing new it's going to require some rather notable exploration outside my comfort zone I feel. I'll also need to implement cookies or somesuch to validate user logins I'd think...
 
 ### Project Tracker
 Thus far it seems like I'll be using PivotalTracker but I'm also looking at Trello. I will update this once I've.. properly figured that out.
